@@ -3,6 +3,8 @@
 
 
 [NATOURS] is a tour booking website.
+
+
 This website was built from Jonas Schmedtmann's [Advanced CSS course] on Udemy. 
 
 ![Screenshot](/img/Natours.png)
@@ -13,6 +15,7 @@ This website was built from Jonas Schmedtmann's [Advanced CSS course] on Udemy.
 * HTML 
 * CSS
 * SASS
+* NPM
 
 
 
